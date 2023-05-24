@@ -1,2 +1,6 @@
 # Polychat-tilde
-The one and only, ultimate, cli chatroom.
+*The one and only, ultimate, cli chatroom.*
+
+Python client-side & Node.js serverside.
+
+## 
